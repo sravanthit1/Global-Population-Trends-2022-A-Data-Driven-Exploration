@@ -96,10 +96,6 @@ While this project lays the groundwork for understanding global population trend
 - **Data Expansion**: Incorporate more recent data or additional datasets for broader insights.
 - **Methodological Refinement**: Enhance analytical methodologies and visualization techniques.
 
-### 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ### 📧 Contact
 
 For any questions or further information, please contact:
